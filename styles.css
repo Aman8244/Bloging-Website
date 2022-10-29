@@ -1,0 +1,85 @@
+body{
+    scroll-behavior: smooth;
+}
+
+.name{
+    display: inline;
+    padding-left: 37%;
+    padding-right: 30%;
+    text-align: center;
+    color: hsl(97, 48%, 24%);
+    
+}
+hr{
+    height: 0;
+    border-bottom: 0;
+}
+.nav-link{
+    padding: 8%;
+    color: rgb(60, 135, 60);
+}
+#signup,#link{
+    margin-left: 3.5%;
+
+}
+#link{
+    color: rgb(60, 135, 60);
+}
+a{
+    text-decoration: none;
+    
+}
+.head-2{
+    line-height: 2rem;
+    padding-top: 5%;
+    font-family:serif;
+}
+.div-2{
+    background-color: RGBA(33,37,41,var(--bs-bg-opacity,1))!important;
+    color: rgb(255, 255, 255);
+    padding-bottom: 5%;
+    border-radius: 1.5%;
+}
+#para-1{
+    padding-left: 10%;
+    line-height: 1.5rem;
+
+}
+h1{
+    font-family: serif;
+}
+#about{
+    position: absolute;
+    margin-left: 75%;
+}
+hr{
+    border-bottom: 0;
+}
+.table-tr{
+    border: 1px solid;
+}
+.table-td{
+    padding-right: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.table-th{
+    text-align: left;
+    font-size: 120%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#tbl{
+    padding-top: 5%;
+}
+button{
+    height: 1.5rem;
+    border-radius: 10%;
+    border-color:rgb(255, 255, 255); 
+    
+    
+}
+.foot-link{
+    padding-right: 5px;color: white;
+    line-height: 2rem;
+}
+
